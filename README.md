@@ -1,2 +1,3 @@
 # robofriends
-Search for robofriends using React
+
+Creates a website that searches robofriends based on the array created
